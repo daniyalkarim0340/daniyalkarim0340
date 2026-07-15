@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Daniyal Karim
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;AI+Engineer+in+Progress;React+%7C+Next.js+%7C+TypeScript;Building+AI+Agents+and+Automation;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full_stack_Developer;AI+Engineer+in+Progress;React+%7C+Next.js+%7C+TypeScript;Building+AI+Agents+and+Automation;Always+Learning+New+Things" />
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=daniyalkarim0340&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
@@ -16,7 +16,7 @@
 
 # 💫 About Me
 
-💻 Frontend Developer passionate about building beautiful, scalable, and high-performance web applications.
+💻 full stack_Developer passionate about building beautiful, scalable, and high-performance web applications.
 
 🤖 Currently learning **Generative AI**, **AI Agents**, **LLMs**, **RAG**, **Workflow Automation**, and **Full Stack Development**.
 
