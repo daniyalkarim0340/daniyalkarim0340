@@ -1,0 +1,47 @@
+name: Generate 3D Profile & Snake Animations
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs automatically every day at 00:00 UTC
+  workflow_dispatch:     # Allows manual trigger from the Actions tab
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build-visuals:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # 1. Generate 3D Isometric Contribution Charts (Dark + Light themes)
+      - name: Generate 3D Isometric Chart
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      # 2. Generate Animated Contribution Snake (Dark + Light themes)
+      - name: Generate Animated Contribution Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00F7FF&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+
+      # 3. Deploy both sets of SVGs to a clean 'output' branch
+      - name: Push SVGs to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: .
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
