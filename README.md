@@ -218,7 +218,12 @@ graph LR
 ## 📊 Live GitHub Telemetry & Analytics
 
 <div align="center">
-
+<!-- 🐍 ANIMATED NEON-CYAN CONTRIBUTION SNAKE -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniyalkarim0340/daniyalkarim0340/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daniyalkarim0340/daniyalkarim0340/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/daniyalkarim0340/daniyalkarim0340/output/github-snake-dark.svg" width="100%" />
+</picture>
 <!-- 📈 UNIFIED SUMMARY CARDS -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniyalkarim0340&theme=tokyonight" width="98%" alt="Profile Summary" />
 
