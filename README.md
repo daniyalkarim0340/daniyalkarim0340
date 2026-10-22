@@ -1,81 +1,96 @@
 <div align="center">
 
-<!-- 🌌 DYNAMIC CYBERNETIC HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:06080e,40:0d1117,80:004e66,100:00f7ff&height=250&section=header&text=DANIYAL%20KARIM&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=%E2%9A%A1%20Full-Stack%20Systems%20Architect%20%26%20Applied%20AI%20Engineer%20%E2%9A%A1&descAlignY=65&descSize=19&stroke=00f7ff&strokeWidth=1.5" alt="Daniyal Karim Banner" />
+<!-- 🌌 SECTION 1: ULTRA-CLEAN GEOMETRIC HERO HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:06090f,30:0d1117,70:0a2540,100:00f7ff&height=200&section=header&text=DANIYAL%20KARIM&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=FULL-STACK%20SYSTEMS%20ARCHITECT%20%20%E2%80%A2%20%20APPLIED%20AI%20ENGINEER&descSize=14&descAlignY=62&descColor=00f7ff" alt="Daniyal Karim Header" />
 
-<!-- ⌨️ TERMINAL EXECUTION STREAM -->
+<!-- ⚡ LIVE SYSTEM STATUS PILLS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-BUILDING_PRODUCTION_AI_%26_SAAS-0d1117?style=flat-square&logo=statuspage&logoColor=00f7ff&labelColor=06090f&color=0d1117" alt="Status" />
+  <img src="https://img.shields.io/badge/FOCUS-NEXT.JS_%E2%80%A2_NESTJS_%E2%80%A2_LANGGRAPH-0d1117?style=flat-square&logo=esbuild&logoColor=00f7ff&labelColor=06090f&color=0d1117" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=daniyalkarim0340&label=TELEMETRY%20HITS&color=00f7ff&style=flat-square&labelColor=06090f" alt="Views" />
+</p>
+
+<!-- ⌨️ CRISP SINGLE-LINE TERMINAL STREAM -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=85&lines=%24+init_system+--role%3D%22Full-Stack+%26+Agentic+AI+Architect%22;%3E+Engineering+Next.js+%26+NestJS+Distributed+Micro-Architectures;%3E+Orchestrating+Stateful+LangGraph+Agents+%E2%80%A2+RAG+%E2%80%A2+Pinecone+Vector+Pipelines;%3E+Real-Time+WebRTC+Video+Meshes+%E2%80%A2+Socket.io+%E2%80%A2+PostgreSQL+%26+MongoDB" alt="Terminal Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=780&height=35&lines=%24+deploy+--stack%3D%22Next.js+%7C+NestJS+%7C+PostgreSQL+%7C+MongoDB%22;%24+orchestrate+--agents%3D%22LangGraph+%7C+RAG+%7C+Pinecone+%7C+Tavily%22;%24+stream+--realtime%3D%22WebRTC+P2P+Video+%7C+Socket.io+Clusters%22;%24+secure+--auth%3D%22Passport+OAuth2+%7C+JWT+Rotation+%7C+Stripe+Webhooks%22" alt="Terminal Typing" />
 </a>
 
 <br/>
 
-<!-- 🛡️ COMMAND BAR & LIVE TELEMETRY -->
+<!-- 🛡️ MINIMALIST COMMAND BAR -->
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live_System-00F7FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
   </a>
   <a href="mailto:daniyalkarim70@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Direct_Dispatch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail" />
+    <img src="https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://instagram.com/daniyalkarim43" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=daniyalkarim0340&label=System%20Pings&color=00F7FF&style=for-the-badge&labelColor=0d1117" alt="Views" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 </div>
 
-## ⚡ Core Engineering Overview
+<!-- 🧠 SECTION 2: BALANCED BENTO ARCHITECTURE OVERVIEW -->
+## ⚡ Engineering Domains & System Profile
+
+<table width="100%">
+<tr>
+<td width="52%" valign="top">
+
+### 🎯 What I Architect & Ship
 
 <table>
-<tr>
-<td width="54%" valign="top">
-
-### 🧠 System Specialties
-
-- **🤖 Stateful Agentic AI & RAG Systems**  
-  Designing cyclic multi-agent workflows with **LangGraph**, semantic retrieval via **Pinecone**, autonomous web research using **Tavily**, and local OS/API function-calling pipelines.
-- **🏗️ Production-Grade Full-Stack Systems**  
-  Architecting responsive **Next.js / React** frontends with **Tailwind CSS**, **Zustand**, and **i18next**, paired with modular **NestJS & Express.js** backend controllers.
-- **📡 Low-Latency Real-Time Infrastructure**  
-  Building bidirectional **Socket.io** chat clusters, peer-to-peer **WebRTC** video streaming engines, and event-driven webhook pipelines.
-- **🔐 Enterprise Auth, Media & FinTech Flows**  
-  Implementing multi-role RBAC hierarchies, **Passport.js** Google OAuth2, JWT rotation, Email OTP verification, **Cloudinary/Multer** storage, and **Stripe** checkout webhooks.
+  <tr>
+    <td><b>🤖 Agentic AI</b></td>
+    <td>Stateful <b>LangGraph</b> workflows, <b>Pinecone</b> vector RAG, <b>Tavily</b> search tools & OS function calling.</td>
+  </tr>
+  <tr>
+    <td><b>🏗️ Core Stack</b></td>
+    <td>Scalable <b>Next.js</b> & <b>React</b> interfaces backed by modular <b>NestJS</b> & <b>Express.js</b> APIs.</td>
+  </tr>
+  <tr>
+    <td><b>📡 Real-Time</b></td>
+    <td>Low-latency <b>WebRTC</b> video streaming & bidirectional <b>Socket.io</b> messaging engines.</td>
+  </tr>
+  <tr>
+    <td><b>🗄️ Data Layer</b></td>
+    <td>Relational & NoSQL modeling with <b>PostgreSQL</b> (Prisma / TypeORM) & <b>MongoDB</b> (Mongoose).</td>
+  </tr>
+  <tr>
+    <td><b>🔐 Auth & Pay</b></td>
+    <td><b>Passport.js</b> Google OAuth2, JWT middleware, OTP verification, <b>Cloudinary</b> & <b>Stripe</b> checkouts.</td>
+  </tr>
+</table>
 
 </td>
-<td width="46%" valign="top">
+<td width="48%" valign="top">
 
-### 🖥️ `runtime_telemetry.ts`
+### 🖥️ `daniyal.config.ts`
 
-```typescript
-interface PrincipalEngineer {
-  readonly identity: string;
-  readonly focus: string[];
-  readonly architecture: Record<string, string[]>;
-  readonly status: "ONLINE" | "DEPLOYING";
-}
+```ts
+export const EngineerProfile = {
+  name: "Daniyal Karim",
+  role: "Full-Stack & AI Systems Engineer",
+  education: "CS @ Degree College Aliabad, Hunza",
+  experience: "Full-Stack Dev (ex-uConnect)",
 
-export const DaniyalKarim: PrincipalEngineer = {
-  identity: "Daniyal Karim — Full-Stack & AI Engineer",
-  status: "ONLINE",
-  focus: [
-    "Scalable SaaS & Multi-Tenant Systems",
-    "Autonomous LangGraph Agent Workflows",
-    "Real-Time WebRTC & Socket Infrastructure"
-  ],
-  architecture: {
-    frontend: ["Next.js", "React", "TypeScript", "Tailwind", "Zustand"],
-    backend:  ["NestJS", "Node.js", "Express", "Passport.js", "JWT"],
-    database: ["PostgreSQL", "Prisma", "TypeORM", "MongoDB", "Pinecone"],
-    realtime: ["Socket.io", "WebRTC", "Stripe Webhooks", "REST APIs"]
-  }
-};
+  coreStack: {
+    frontend: ["Next.js", "React", "Tailwind", "Zustand"],
+    backend:  ["NestJS", "Node.js", "Express", "REST"],
+    database: ["PostgreSQL", "MongoDB", "Prisma", "TypeORM"],
+    ai_layer: ["LangGraph", "Pinecone", "Tavily", "RAG"],
+    realtime: ["Socket.io", "WebRTC", "Stripe", "OAuth2"]
+  },
+
+  currentFocus: "High-Concurrency SaaS & AI Agents"
+} as const;
 ```
 
 </td>
@@ -84,9 +99,10 @@ export const DaniyalKarim: PrincipalEngineer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
+<!-- 🏛️ SECTION 3: INTERACTIVE ARCHITECTURE DIAGRAM -->
 ## 🏛️ End-to-End System Topology
 
-> *GitHub natively renders this live architecture blueprint showing how my frontend, backend, database, and AI layers interact in production:*
+> *Live architecture blueprint illustrating how my frontend, backend, database, and AI layers interact in production:*
 
 ```mermaid
 graph LR
@@ -126,6 +142,7 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
+<!-- 🛠️ SECTION 4: FULL-STACK & AI TECH ARSENAL -->
 ## 🛠️ Full-Stack & AI Tech Arsenal
 
 <div align="center">
@@ -141,6 +158,7 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
+<!-- 🚀 SECTION 5: FLAGSHIP PRODUCTION SYSTEMS -->
 ## 🚀 Flagship Production Systems
 
 <table>
@@ -153,7 +171,7 @@ graph LR
         <li>Integrated autonomous web search via <b>Tavily</b> and custom OS-level function execution handlers for local system automation.</li>
       </ul>
       <p>
-        <a href="https://github.com/daniyalkarim0340"><img src="https://img.shields.io/badge/View_Architecture-00F7FF?style=flat-square&logo=github&logoColor=black" /></a>
+        <a href="https://github.com/daniyalkarim0340"><img src="https://img.shields.io/badge/View_Architecture-00F7FF?style=flat-square&logo=github&logoColor=black" alt="Repo" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -164,7 +182,7 @@ graph LR
         <li>Built custom JWT + Google OAuth2 authentication via <b>Passport.js</b>, OTP email verification, and <b>Cloudinary/Multer</b> media pipelines.</li>
       </ul>
       <p>
-        <a href="https://github.com/daniyalkarim0340"><img src="https://img.shields.io/badge/View_Architecture-00F7FF?style=flat-square&logo=github&logoColor=black" /></a>
+        <a href="https://github.com/daniyalkarim0340"><img src="https://img.shields.io/badge/View_Architecture-00F7FF?style=flat-square&logo=github&logoColor=black" alt="Repo" /></a>
       </p>
     </td>
   </tr>
@@ -177,7 +195,7 @@ graph LR
         <li>Implemented instant messaging channels, presence tracking, and responsive multi-device UI layouts.</li>
       </ul>
       <p>
-        <a href="https://github.com/daniyalkarim0340"><img src="https://img.shields.io/badge/View_Architecture-00F7FF?style=flat-square&logo=github&logoColor=black" /></a>
+        <a href="https://github.com/daniyalkarim0340"><img src="https://img.shields.io/badge/View_Architecture-00F7FF?style=flat-square&logo=github&logoColor=black" alt="Repo" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -188,7 +206,7 @@ graph LR
         <li>Modeled relational schemas for appointment scheduling, electronic records, and automated billing workflows.</li>
       </ul>
       <p>
-        <a href="https://github.com/daniyalkarim0340"><img src="https://img.shields.io/badge/View_Architecture-00F7FF?style=flat-square&logo=github&logoColor=black" /></a>
+        <a href="https://github.com/daniyalkarim0340"><img src="https://img.shields.io/badge/View_Architecture-00F7FF?style=flat-square&logo=github&logoColor=black" alt="Repo" /></a>
       </p>
     </td>
   </tr>
@@ -196,6 +214,7 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
+<!-- 📊 SECTION 6: LIVE GITHUB TELEMETRY & ANALYTICS -->
 ## 📊 Live GitHub Telemetry & Analytics
 
 <div align="center">
@@ -238,7 +257,7 @@ graph LR
 
 <br/>
 
-<!-- 🤝 FOOTER -->
+<!-- 🤝 SECTION 7: FOOTER -->
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -252,6 +271,6 @@ graph LR
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,35:004e66,75:0d1117,100:06080e&height=115&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:00f7ff,30:0a2540,70:0d1117,100:06090f&height=110&section=footer" width="100%" alt="Footer" />
 
 </div>
