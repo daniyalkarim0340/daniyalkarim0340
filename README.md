@@ -158,62 +158,42 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- 🚀 SECTION 5: FLAGSHIP PRODUCTION SYSTEMS -->
+<!-- 🚀 SECTION 5: AUTO-SLIDING FLAGSHIP SHOWCASE -->
 ## 🚀 Flagship Production Systems
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 Multi-Agent Conversational & OS Assistant</h3>
-      <p><b>Stack:</b> <code>LangGraph</code> • <code>Tavily Search</code> • <code>Pinecone</code> • <code>Next.js</code> • <code>Node.js</code></p>
-      <ul>
-        <li>Engineered a stateful multi-agent pipeline capable of dynamic tool-calling, persistent conversation history, and semantic vector retrieval.</li>
-        <li>Integrated autonomous web search via <b>Tavily</b> and custom OS-level function execution handlers for local system automation.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/daniyalkarim0340"><img src="https://img.shields.io/badge/View_Architecture-00F7FF?style=flat-square&logo=github&logoColor=black" alt="Repo" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🍔 Full-Stack Commerce & Food Delivery Platform</h3>
-      <p><b>Stack:</b> <code>React / Next.js</code> • <code>NestJS / Express</code> • <code>MongoDB / PostgreSQL</code> • <code>Stripe</code></p>
-      <ul>
-        <li>Architected end-to-end ordering workflows, cart state persistence with <b>Zustand</b>, and secure <b>Stripe Checkout</b> webhook processing.</li>
-        <li>Built custom JWT + Google OAuth2 authentication via <b>Passport.js</b>, OTP email verification, and <b>Cloudinary/Multer</b> media pipelines.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/daniyalkarim0340"><img src="https://img.shields.io/badge/View_Architecture-00F7FF?style=flat-square&logo=github&logoColor=black" alt="Repo" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📡 Real-Time Video & Chat Communication Engine</h3>
-      <p><b>Stack:</b> <code>WebRTC</code> • <code>Socket.io</code> • <code>TypeScript</code> • <code>Tailwind CSS</code> • <code>Node.js</code></p>
-      <ul>
-        <li>Developed peer-to-peer low-latency video streaming rooms using <b>WebRTC</b> paired with custom <b>Socket.io</b> signaling servers.</li>
-        <li>Implemented instant messaging channels, presence tracking, and responsive multi-device UI layouts.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/daniyalkarim0340"><img src="https://img.shields.io/badge/View_Architecture-00F7FF?style=flat-square&logo=github&logoColor=black" alt="Repo" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏥 Multi-Hospital Management System Architecture</h3>
-      <p><b>Stack:</b> <code>NestJS</code> • <code>PostgreSQL</code> • <code>Prisma / TypeORM</code> • <code>RBAC</code> • <code>Next.js</code></p>
-      <ul>
-        <li>Designed multi-tenant role hierarchies (Admin, Doctor, Patient, Reception) with strict permission guards and audit logging.</li>
-        <li>Modeled relational schemas for appointment scheduling, electronic records, and automated billing workflows.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/daniyalkarim0340"><img src="https://img.shields.io/badge/View_Architecture-00F7FF?style=flat-square&logo=github&logoColor=black" alt="Repo" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<!-- 🎞️ AUTO-SLIDING SVG CAROUSEL -->
+<a href="https://github.com/daniyalkarim0340?tab=repositories">
+  <img src="https://raw.githubusercontent.com/daniyalkarim0340/daniyalkarim0340/main/assets/projects-slider.svg" width="100%" alt="Auto-Sliding Projects Showcase" />
+</a>
+
+<br/>
+
+<!-- 🔗 QUICK-LAUNCH PROJECT PILLS -->
+<p align="center">
+  <a href="https://github.com/daniyalkarim0340"><img src="https://img.shields.io/badge/01_🤖_Agentic_AI_Assistant-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=06090f" alt="AI Agent Repo" /></a>
+  <a href="https://github.com/daniyalkarim0340"><img src="https://img.shields.io/badge/02_🍔_Food_Delivery_SaaS-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=06090f" alt="Food Delivery Repo" /></a>
+  <a href="https://github.com/daniyalkarim0340"><img src="https://img.shields.io/badge/03_📡_WebRTC_Video_Engine-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=06090f" alt="WebRTC Repo" /></a>
+  <a href="https://github.com/daniyalkarim0340"><img src="https://img.shields.io/badge/04_🏥_Hospital_ERP_System-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=06090f" alt="Hospital Repo" /></a>
+</p>
+
+</div>
+
+<details>
+<summary><b>📂 Click to Expand Full Technical Specifications & Repository Links (4 Flagship Systems)</b></summary>
+<br/>
+
+| # | System Name | Core Tech Stack | Key Architectural Highlights | Repo |
+| :-: | :--- | :--- | :--- | :-: |
+| **01** | **🤖 Multi-Agent & OS Assistant** | `LangGraph` `Pinecone` `Tavily` `Next.js` | Stateful agent router, vector RAG memory, live web search, and local OS function calling. | [🔗 Code](https://github.com/daniyalkarim0340) |
+| **02** | **🍔 Food Delivery Platform** | `Next.js` `NestJS` `MongoDB` `Stripe` | Zustand cart persistence, Stripe checkout webhooks, Passport OAuth2, OTP & Cloudinary. | [🔗 Code](https://github.com/daniyalkarim0340) |
+| **03** | **📡 WebRTC Video & Chat Engine** | `WebRTC` `Socket.io` `TypeScript` `Node.js` | P2P low-latency video streaming rooms, custom signaling server, and live chat channels. | [🔗 Code](https://github.com/daniyalkarim0340) |
+| **04** | **🏥 Multi-Hospital Management** | `NestJS` `PostgreSQL` `Prisma` `TypeORM` | Multi-tenant RBAC hierarchy (Admin/Doctor/Patient), appointment scheduling & billing. | [🔗 Code](https://github.com/daniyalkarim0340) |
+
+</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 <!-- 📊 SECTION 6: LIVE GITHUB TELEMETRY & ANALYTICS -->
 ## 📊 Live GitHub Telemetry & Analytics
 
